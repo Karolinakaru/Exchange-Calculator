@@ -28,7 +28,7 @@
                 Console.WriteLine("You will recieve: {0:F2} EUR", resultGbp);
                 break;
             default:
-                Console.WriteLine("The entered data is incorrect. Try again :)");
+                Console.WriteLine("Incorrect data. Try again.");
                 break;
         }
     }
